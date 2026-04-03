@@ -127,4 +127,4 @@ IA-na-pratica-primeiro-repo-Github/
 **Academia:** Kensei Cybersecurity Academy
 **Autora:** Naiara Rodrigues
 
-> Futura desenvolvedora na KenseiCyberSecurity!
+> Futura desenvolvedora 
